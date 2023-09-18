@@ -99,7 +99,10 @@ p {
   padding: 20px;
   text-align: center;
 }
-#navbar ul li a:hover,
+#navbar ul li a:hover {
+  background: #4b4b4b;
+  color: #9dc75a;
+}
 #navbar ul li a.current {
   background: #444;
   color: #9dc75a;

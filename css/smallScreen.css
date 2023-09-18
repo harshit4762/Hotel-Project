@@ -1,0 +1,39 @@
+#navbar h1 {
+  text-align: center;
+  float: none;
+}
+#navbar ul,
+#navbar ul li {
+  float: none;
+}
+#navbar ul li a {
+  padding: 8px;
+}
+#navbar {
+  padding-bottom: 12px;
+}
+
+#home-info {
+  height:auto;
+}
+#home-info .info-img {
+  display: none;
+}
+#home-info .info-content {
+  float: none;
+  width: 100%;
+}
+.box{
+    float: none;
+    height: 33.3%;
+    width: auto;
+}
+#about-info .info-left,
+#about-info .info-right{
+    float: none;
+    width: auto;
+    height: auto;
+}
+.l-heading{
+    text-align: center;
+}
